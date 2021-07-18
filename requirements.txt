@@ -1,0 +1,4 @@
+#Cargar haarcascade_frontalface_alt.xml en www.github.com/opencv
+
+opencv-python
+opencv-contrib-python
